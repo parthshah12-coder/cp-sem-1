@@ -32,5 +32,4 @@ void main()
     {
         printf("\ngrade : fail");
     }
-
 }
